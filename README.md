@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CollegeHub — Student & Course Management System
 
 > **Advanced Web Technology (AWT) Practical Assignment**  
@@ -210,3 +211,7 @@ Defined in [`src/utils/attendance.js`](file:///c:/Users/skyso/OneDrive/Documents
 | **&ge; 75%** | **Eligible** | Permitted to sit for all exams | Green (`badge-success`) |
 | **60% &le; Attendance &lt; 75%** | **Warning** | Remedial attendance notice | Amber (`badge-warning`) |
 | **&lt; 60%** | **Detained** | Barred from regular exams | Red (`badge-danger`) |
+=======
+# AWT-FAST-LEARNER
+Poject AWT
+>>>>>>> 17bdc96ea923853749e3204a83eb2802587dde16
